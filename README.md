@@ -7,6 +7,7 @@ This is a simple checkout application built with Vue 3 + Vite for the frontend a
 1. HTML
 2. TailwindCss
 3. Vue 3
+4. Vue Router
 ## Installation
 
 ```
