@@ -1,7 +1,18 @@
-# Vue 3 + Vite
+# Checkout App
+<img src="public/assets/checkout.png">
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a simple checkout application built with Vue 3 + Vite for the frontend and TailwindCss for the styling.
 
-## Recommended IDE Setup
+## Prerequisite
+1. HTML
+2. TailwindCss
+3. Vue 3
+## Installation
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+```
+$ git clone https://github.com/judesafe/Checkout-app.git
+```
+
+````
+$ npm install
+````
