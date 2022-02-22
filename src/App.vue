@@ -8,7 +8,7 @@
           <a href="" class="text-2xl">Checkout</a>
         </div>
         <div>
-          <a href="">
+          <a href="https://github.com/judesafe/Checkout-app">
             <svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512">
               <!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. -->
               <path
